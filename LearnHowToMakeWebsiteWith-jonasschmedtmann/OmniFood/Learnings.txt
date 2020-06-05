@@ -1,0 +1,80 @@
+Normalize.css
+A modern, HTML5-ready alternative to CSS resets
+Normalize.css makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing.
+https://necolas.github.io/normalize.css/
+
+take google fonts whatever you want and copy style code
+<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;1,300&display=swap" rel="stylesheet">
+
+____________________________________________________________________________________________________________________________________
+
+
+do basic steps for css
+
+build Setting fluid grid responsive site
+Three Ingredients : 
+1. Fluid Grid: All layout elements are sized in relative i=units, such as %ages, instead of absolute unit like pixels
+2. Flexible images: are also sized in relative units
+3. Media Queries: allow us to specify different CC style rules for different browser widths
+http://www.responsivegridsystem.com/ - follow this
+
+make a row class 
+
+Start Header section
+We Will learn in Section 1 : 
+- New HTML elements: header, nav, ui, li 
+- Put Text on an image: make image darker
+- How to make that image as high as browser viewpoet
+- How to make vertically and horizontally centered box
+- How to design Buttons
+- The 4 link states in CSS: link, visited, hover, active
+- CSS3 transitions for small animations
+- How to create simple navigation
+
+use https://flatuicolors.com/ to see the colors directly
+
+
+Now Last Part of Header : 
+Add Navigation and Logo 
+
+START FEATURES SECTION 
+-How to put a content on a website directly from CSS with :after pseudo-class
+- we'll use the fluid grid for the first time
+- we will learn how to use icons
+
+FAVOURITE MEALS SECTION
+-How to make a grid of images
+-how to make zoom in transistion only css
+-A way to make img elements darker
+
+HOW IT WORKS
+-hOW TO DRAW CIRCLES WITH css
+-a COOL TECHNQUE TO MAKE SEPERATION BETWEEN SECTIONS
+-HPW TO INCOOPRATE PLAYSTORE AND APP STORE BUTTONS
+
+Cities Section
+-practice our new skill set
+-how to use small icons aligned with some text
+-how to style generic links
+
+
+_____________________________________________________________________________________________________________
+	Responsive web design 
+Use Media Queries
+0-480px - Mobile
+480-768 - smaller than ipad 
+768-1024 - tabblet potrait
+1024-1200 - desktop
+
+
+
+favicons - identity of any website
+
+
+Optimization : 
+1  optimize heavy images
+2 minify css and JQuery
+minifycss.com/css-compressor/
+
+SEO: technique that improve and promote website to inc. number of visitors the site reveives
+html validation https://validator.w3.org/
