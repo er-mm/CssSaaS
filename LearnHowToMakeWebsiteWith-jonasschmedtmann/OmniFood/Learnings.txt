@@ -78,3 +78,8 @@ minifycss.com/css-compressor/
 
 SEO: technique that improve and promote website to inc. number of visitors the site reveives
 html validation https://validator.w3.org/
+
+how to upload 
+1. choose or buy hostname
+2. buy web hosting
+3. upload ur website.
